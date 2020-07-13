@@ -1,0 +1,4 @@
+celery==4.3.0
+prometheus_client
+flask
+twint
